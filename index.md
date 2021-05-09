@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Electrozen Pages
 
-You can use the [editor on GitHub](https://github.com/ikbnovitaalyar/electrozen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit the other pages(https://write.as/rvlyn/) to monitoring the content for your town.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
